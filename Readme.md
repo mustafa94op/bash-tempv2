@@ -5,4 +5,4 @@ some basic *introduction* ** here**:
 - Second item
 - Third item
 
-  this is a [link](https://www.google.de/?hl=de)
+  this is a [link](https://www.google.com)
